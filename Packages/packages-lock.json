@@ -48,11 +48,21 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.0.2",
       "depth": 2,
       "source": "registry",
       "dependencies": {},
+=======
+    "com.unity.postprocessing": {
+      "version": "3.2.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.physics": "1.0.0"
+      },
+>>>>>>> eb1459cbe0f0b235ffe2655de837b08dc06461e8
       "url": "https://packages.unity.com"
     },
     "com.unity.probuilder": {
